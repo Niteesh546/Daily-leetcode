@@ -59,5 +59,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/Niteesh546/Daily-leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Niteesh546/Daily-leetcode/tree/master/0392-is-subsequence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/Niteesh546/Daily-leetcode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
