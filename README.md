@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Niteesh546/Daily-leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Niteesh546/Daily-leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Niteesh546/Daily-leetcode/tree/master/0205-isomorphic-strings) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Niteesh546/Daily-leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 ## String
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Niteesh546/Daily-leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Niteesh546/Daily-leetcode/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/Niteesh546/Daily-leetcode/tree/master/0392-is-subsequence) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Niteesh546/Daily-leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 ## Stack
 |  |
 | ------- |
@@ -82,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Niteesh546/Daily-leetcode/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/Niteesh546/Daily-leetcode/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/Niteesh546/Daily-leetcode/tree/master/0338-counting-bits) |
+## Design
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/Niteesh546/Daily-leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+## Hash Function
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/Niteesh546/Daily-leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 <!---LeetCode Topics End-->
