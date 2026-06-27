@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Niteesh546/Daily-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Niteesh546/Daily-leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Niteesh546/Daily-leetcode/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/Niteesh546/Daily-leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Niteesh546/Daily-leetcode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Niteesh546/Daily-leetcode/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Niteesh546/Daily-leetcode/tree/master/0283-move-zeroes) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Niteesh546/Daily-leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Niteesh546/Daily-leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Niteesh546/Daily-leetcode/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/Niteesh546/Daily-leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Niteesh546/Daily-leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 ## String
 |  |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/Niteesh546/Daily-leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Niteesh546/Daily-leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
