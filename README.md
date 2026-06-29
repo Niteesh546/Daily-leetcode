@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Niteesh546/Daily-leetcode/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Niteesh546/Daily-leetcode/tree/master/0283-move-zeroes) |
 | [1833-maximum-ice-cream-bars](https://github.com/Niteesh546/Daily-leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Niteesh546/Daily-leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Greedy
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Niteesh546/Daily-leetcode/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/Niteesh546/Daily-leetcode/tree/master/0392-is-subsequence) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Niteesh546/Daily-leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Niteesh546/Daily-leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Stack
 |  |
 | ------- |
