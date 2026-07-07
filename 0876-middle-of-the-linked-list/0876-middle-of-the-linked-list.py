@@ -5,19 +5,15 @@
 #         self.next = next
 class Solution(object):
     def middleNode(self, head):
-        curr = head
+        fast=head
+        slow=head
 
-        l=0
-        while curr!=None:
-            curr = curr.next
-            l=l+1
-        curr=head
-        for i in range(l//2):
-            curr=curr.next
+        while fast != None and fast.next != None:
+            slow = slow.next
+            fast = fast.next.next
 
-        head = curr
 
-        return head
+        return slow
 
 
         
