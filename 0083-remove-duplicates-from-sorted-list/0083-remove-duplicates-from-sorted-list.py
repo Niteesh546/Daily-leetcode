@@ -6,6 +6,8 @@
 class Solution(object):
     def deleteDuplicates(self, head):
         curr = head 
+        if head==None or head.next == None:
+            return head
         while curr !=None and curr.next != None:
             if curr.next.val == curr.val:
                 curr.next =curr.next.next
