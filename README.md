@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Niteesh546/Daily-leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Niteesh546/Daily-leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Niteesh546/Daily-leetcode/tree/master/0049-group-anagrams) |
+| [0142-linked-list-cycle-ii](https://github.com/Niteesh546/Daily-leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Niteesh546/Daily-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Niteesh546/Daily-leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Niteesh546/Daily-leetcode/tree/master/0205-isomorphic-strings) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Niteesh546/Daily-leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Niteesh546/Daily-leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/Niteesh546/Daily-leetcode/tree/master/0125-valid-palindrome) |
+| [0142-linked-list-cycle-ii](https://github.com/Niteesh546/Daily-leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Niteesh546/Daily-leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Niteesh546/Daily-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Niteesh546/Daily-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Niteesh546/Daily-leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Niteesh546/Daily-leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0142-linked-list-cycle-ii](https://github.com/Niteesh546/Daily-leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Niteesh546/Daily-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Niteesh546/Daily-leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Niteesh546/Daily-leetcode/tree/master/0876-middle-of-the-linked-list) |
