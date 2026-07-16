@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Niteesh546/Daily-leetcode/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Niteesh546/Daily-leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Niteesh546/Daily-leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0485-max-consecutive-ones](https://github.com/Niteesh546/Daily-leetcode/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/Niteesh546/Daily-leetcode/tree/master/0525-contiguous-array) |
 | [0905-sort-array-by-parity](https://github.com/Niteesh546/Daily-leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Niteesh546/Daily-leetcode/tree/master/0922-sort-array-by-parity-ii) |
