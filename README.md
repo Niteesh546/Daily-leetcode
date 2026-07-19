@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Niteesh546/Daily-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Niteesh546/Daily-leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Niteesh546/Daily-leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+| [0796-rotate-string](https://github.com/Niteesh546/Daily-leetcode/tree/master/0796-rotate-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Niteesh546/Daily-leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1768-merge-strings-alternately](https://github.com/Niteesh546/Daily-leetcode/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Niteesh546/Daily-leetcode/tree/master/1796-second-largest-digit-in-a-string) |
@@ -252,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Niteesh546/Daily-leetcode/tree/master/0070-climbing-stairs) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Niteesh546/Daily-leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
