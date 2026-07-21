@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Niteesh546/Daily-leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Niteesh546/Daily-leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Niteesh546/Daily-leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Niteesh546/Daily-leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Niteesh546/Daily-leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Niteesh546/Daily-leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Niteesh546/Daily-leetcode/tree/master/0088-merge-sorted-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Niteesh546/Daily-leetcode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Niteesh546/Daily-leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Niteesh546/Daily-leetcode/tree/master/0169-majority-element) |
 ## Prefix Sum
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Niteesh546/Daily-leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Niteesh546/Daily-leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Niteesh546/Daily-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Niteesh546/Daily-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
