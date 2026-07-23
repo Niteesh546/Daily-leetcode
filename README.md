@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Niteesh546/Daily-leetcode/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/Niteesh546/Daily-leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Niteesh546/Daily-leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0746-min-cost-climbing-stairs](https://github.com/Niteesh546/Daily-leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0905-sort-array-by-parity](https://github.com/Niteesh546/Daily-leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Niteesh546/Daily-leetcode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Niteesh546/Daily-leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Niteesh546/Daily-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/Niteesh546/Daily-leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Niteesh546/Daily-leetcode/tree/master/0392-is-subsequence) |
+| [0746-min-cost-climbing-stairs](https://github.com/Niteesh546/Daily-leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Bit Manipulation
 |  |
 | ------- |
