@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Niteesh546/Daily-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Niteesh546/Daily-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Niteesh546/Daily-leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Niteesh546/Daily-leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Niteesh546/Daily-leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/Niteesh546/Daily-leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Niteesh546/Daily-leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Niteesh546/Daily-leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Niteesh546/Daily-leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
 | ------- |
