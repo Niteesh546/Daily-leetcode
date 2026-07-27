@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Niteesh546/Daily-leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Niteesh546/Daily-leetcode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Niteesh546/Daily-leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Niteesh546/Daily-leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Niteesh546/Daily-leetcode/tree/master/1512-number-of-good-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/Niteesh546/Daily-leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Niteesh546/Daily-leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Niteesh546/Daily-leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Niteesh546/Daily-leetcode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Niteesh546/Daily-leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Niteesh546/Daily-leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Niteesh546/Daily-leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [3536-maximum-product-of-two-digits](https://github.com/Niteesh546/Daily-leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Niteesh546/Daily-leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Niteesh546/Daily-leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/Niteesh546/Daily-leetcode/tree/master/0912-sort-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Niteesh546/Daily-leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
