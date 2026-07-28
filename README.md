@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Niteesh546/Daily-leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Niteesh546/Daily-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Niteesh546/Daily-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0704-binary-search](https://github.com/Niteesh546/Daily-leetcode/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/Niteesh546/Daily-leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0905-sort-array-by-parity](https://github.com/Niteesh546/Daily-leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Niteesh546/Daily-leetcode/tree/master/0912-sort-an-array) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Niteesh546/Daily-leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Niteesh546/Daily-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Niteesh546/Daily-leetcode/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/Niteesh546/Daily-leetcode/tree/master/0704-binary-search) |
 ## Math
 |  |
 | ------- |
