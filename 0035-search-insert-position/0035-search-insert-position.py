@@ -1,15 +1,16 @@
 class Solution(object):
     def searchInsert(self, nums, target):
-        left = 0
-        right = len(nums)
+        n=len(nums)
+        l=0
+        r=n-1
+        ans=n
 
-        while left < right:
-            mid = left + (right - left) // 2
-
-            if nums[mid] < target:
-                left = mid + 1
+        while l<=r:
+            mid=(l+r)//2
+            if nums[mid]>=target:
+                ans=mid
+                r=mid-1
             else:
-                right = mid
-
-        return left
+                l=mid+1
+        return ans
         
