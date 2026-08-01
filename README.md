@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Niteesh546/Daily-leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Niteesh546/Daily-leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Niteesh546/Daily-leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Niteesh546/Daily-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Niteesh546/Daily-leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Niteesh546/Daily-leetcode/tree/master/0704-binary-search) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Niteesh546/Daily-leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Niteesh546/Daily-leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Niteesh546/Daily-leetcode/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/Niteesh546/Daily-leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Niteesh546/Daily-leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Niteesh546/Daily-leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Niteesh546/Daily-leetcode/tree/master/0268-missing-number) |
