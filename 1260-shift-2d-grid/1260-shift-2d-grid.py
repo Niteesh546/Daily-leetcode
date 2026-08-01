@@ -3,8 +3,7 @@ class Solution(object):
         rows=len(grid)
         cols=len(grid[0])
         n=rows*cols
-        if n==1:
-            return grid
+        
         k = k % n
 
         def reverse(i,j):
