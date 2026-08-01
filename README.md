@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Niteesh546/Daily-leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Niteesh546/Daily-leetcode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Niteesh546/Daily-leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [1260-shift-2d-grid](https://github.com/Niteesh546/Daily-leetcode/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Niteesh546/Daily-leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Niteesh546/Daily-leetcode/tree/master/1512-number-of-good-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/Niteesh546/Daily-leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -262,10 +263,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Niteesh546/Daily-leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Niteesh546/Daily-leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Niteesh546/Daily-leetcode/tree/master/0074-search-a-2d-matrix) |
+| [1260-shift-2d-grid](https://github.com/Niteesh546/Daily-leetcode/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Niteesh546/Daily-leetcode/tree/master/0054-spiral-matrix) |
+| [1260-shift-2d-grid](https://github.com/Niteesh546/Daily-leetcode/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Niteesh546/Daily-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Niteesh546/Daily-leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
