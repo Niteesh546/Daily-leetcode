@@ -1,15 +1,13 @@
-class Solution(object):
-    def moveZeroes(self, nums):
-        l=0
+class Solution:
+    def moveZeroes(self, nums: List[int]) -> None:
         r=0
-        for r in range(len(nums)):
+        l=0
+        n=len(nums)
+        while r<n:
             if nums[r]!=0:
-                nums[l],nums[r]=nums[r],nums[l]
+                nums[r],nums[l]=nums[l],nums[r]
                 l=l+1
+            r=r+1
         return nums
-
         
-
-
-
         
