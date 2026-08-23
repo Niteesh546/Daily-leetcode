@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Niteesh546/Daily-leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Niteesh546/Daily-leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Niteesh546/Daily-leetcode/tree/master/1512-number-of-good-pairs) |
+| [1672-richest-customer-wealth](https://github.com/Niteesh546/Daily-leetcode/tree/master/1672-richest-customer-wealth) |
 | [1833-maximum-ice-cream-bars](https://github.com/Niteesh546/Daily-leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Niteesh546/Daily-leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Niteesh546/Daily-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Niteesh546/Daily-leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Niteesh546/Daily-leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1260-shift-2d-grid](https://github.com/Niteesh546/Daily-leetcode/tree/master/1260-shift-2d-grid) |
+| [1672-richest-customer-wealth](https://github.com/Niteesh546/Daily-leetcode/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
