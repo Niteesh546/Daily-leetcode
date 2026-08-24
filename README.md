@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Niteesh546/Daily-leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Niteesh546/Daily-leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0796-rotate-string](https://github.com/Niteesh546/Daily-leetcode/tree/master/0796-rotate-string) |
+| [1108-defanging-an-ip-address](https://github.com/Niteesh546/Daily-leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Niteesh546/Daily-leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1768-merge-strings-alternately](https://github.com/Niteesh546/Daily-leetcode/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Niteesh546/Daily-leetcode/tree/master/1796-second-largest-digit-in-a-string) |
