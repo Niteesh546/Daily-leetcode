@@ -1,10 +1,8 @@
 class Solution:
     def missingMultiple(self, nums: List[int], k: int) -> int:
-        j=0
-        for i in range(len(nums)):
-            j=j+1
-            total = j*k
-            if total not in nums:
+        num_set = set(nums) 
 
+        for j in range(1, len(nums) + 2):
+            total = j * k
+            if total not in num_set:
                 return total
-        return max(nums)+k
