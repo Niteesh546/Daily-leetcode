@@ -1,12 +1,10 @@
-class Solution(object):
-    def missingMultiple(self, nums, k):
-        i=1
-        while True:
-            target = i*k
-            i=i+1
-            if target in nums:
-                continue
-            else:
-                return target
+class Solution:
+    def missingMultiple(self, nums: List[int], k: int) -> int:
+        j=0
+        for i in range(len(nums)):
+            j=j+1
+            total = j*k
+            if total not in nums:
 
-        
+                return total
+        return max(nums)+k
