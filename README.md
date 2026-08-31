@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Niteesh546/Daily-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Niteesh546/Daily-leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Niteesh546/Daily-leetcode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Niteesh546/Daily-leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Niteesh546/Daily-leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Niteesh546/Daily-leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Niteesh546/Daily-leetcode/tree/master/0239-sliding-window-maximum) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Niteesh546/Daily-leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Niteesh546/Daily-leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Niteesh546/Daily-leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Niteesh546/Daily-leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Niteesh546/Daily-leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Niteesh546/Daily-leetcode/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Niteesh546/Daily-leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Niteesh546/Daily-leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Niteesh546/Daily-leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Niteesh546/Daily-leetcode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/Niteesh546/Daily-leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Niteesh546/Daily-leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Niteesh546/Daily-leetcode/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Niteesh546/Daily-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
