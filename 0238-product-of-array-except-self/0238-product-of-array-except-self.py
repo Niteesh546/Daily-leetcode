@@ -1,21 +1,18 @@
-class Solution(object):
-    def productExceptSelf(self, nums):
-        n = len(nums)
-        prefix = [1]*n
-        sufix = [1]*n
-        out = [0]*n
-
+class Solution:
+    def productExceptSelf(self, nums: List[int]) -> List[int]:
+        n=len(nums)
+        prefix_sum = [1]*n
+        print(prefix_sum)
+        sufix_sum = [1]*n
         for i in range(1,n):
-            prefix[i]=prefix[i-1]*nums[i-1]
+            prefix_sum[i] = prefix_sum[i-1]*nums[i-1]
+        print(prefix_sum)
 
         for i in range(n-2,-1,-1):
-            sufix[i]=sufix[i+1]*nums[i+1]
-
+            sufix_sum[i] = sufix_sum[i+1]*nums[i+1]
+        print(sufix_sum)
+        res=[1]*n
         for i in range(n):
-            out[i]=prefix[i]*sufix[i]
-
-        return out
-
-
-        
-        
+            res[i]=prefix_sum[i]*sufix_sum[i]
+        print(res)
+        return res
