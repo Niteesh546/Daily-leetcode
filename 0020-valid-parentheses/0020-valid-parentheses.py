@@ -1,5 +1,5 @@
-class Solution(object):
-    def isValid(self, s):
+class Solution:
+    def isValid(self, s: str) -> bool:
         hashmap ={
             ')':'(',
             '}':'{',
@@ -18,13 +18,3 @@ class Solution(object):
                     if popped != hashmap[c]:
                         return False
         return not st
-
-
-
-
-            
-
-
-
-        
-        
