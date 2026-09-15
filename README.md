@@ -480,4 +480,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Niteesh546/Daily-leetcode/tree/master/0836-rectangle-overlap) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Niteesh546/Daily-leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
