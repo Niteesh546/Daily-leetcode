@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Niteesh546/Daily-leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Niteesh546/Daily-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Niteesh546/Daily-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2404-most-frequent-even-element](https://github.com/Niteesh546/Daily-leetcode/tree/master/2404-most-frequent-even-element) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Niteesh546/Daily-leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Niteesh546/Daily-leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Niteesh546/Daily-leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Niteesh546/Daily-leetcode/tree/master/0912-sort-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Niteesh546/Daily-leetcode/tree/master/1512-number-of-good-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/Niteesh546/Daily-leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [2404-most-frequent-even-element](https://github.com/Niteesh546/Daily-leetcode/tree/master/2404-most-frequent-even-element) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Niteesh546/Daily-leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Niteesh546/Daily-leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Hash Table
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Niteesh546/Daily-leetcode/tree/master/1512-number-of-good-pairs) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Niteesh546/Daily-leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Niteesh546/Daily-leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2404-most-frequent-even-element](https://github.com/Niteesh546/Daily-leetcode/tree/master/2404-most-frequent-even-element) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Niteesh546/Daily-leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Niteesh546/Daily-leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Niteesh546/Daily-leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
