@@ -457,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/Niteesh546/Daily-leetcode/tree/master/0226-invert-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Niteesh546/Daily-leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -514,4 +515,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Niteesh546/Daily-leetcode/tree/master/0169-majority-element) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Niteesh546/Daily-leetcode/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Niteesh546/Daily-leetcode/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Niteesh546/Daily-leetcode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
