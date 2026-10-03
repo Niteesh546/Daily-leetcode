@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/Niteesh546/Daily-leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0567-permutation-in-string](https://github.com/Niteesh546/Daily-leetcode/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/Niteesh546/Daily-leetcode/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/Niteesh546/Daily-leetcode/tree/master/0844-backspace-string-compare) |
 | [1108-defanging-an-ip-address](https://github.com/Niteesh546/Daily-leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Niteesh546/Daily-leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Niteesh546/Daily-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Niteesh546/Daily-leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Niteesh546/Daily-leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Niteesh546/Daily-leetcode/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/Niteesh546/Daily-leetcode/tree/master/0844-backspace-string-compare) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Niteesh546/Daily-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Divide and Conquer
 |  |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Niteesh546/Daily-leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Niteesh546/Daily-leetcode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Niteesh546/Daily-leetcode/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/Niteesh546/Daily-leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Niteesh546/Daily-leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Niteesh546/Daily-leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Niteesh546/Daily-leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Niteesh546/Daily-leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Niteesh546/Daily-leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0844-backspace-string-compare](https://github.com/Niteesh546/Daily-leetcode/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/Niteesh546/Daily-leetcode/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Niteesh546/Daily-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Niteesh546/Daily-leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
