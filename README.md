@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Niteesh546/Daily-leetcode/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Niteesh546/Daily-leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/Niteesh546/Daily-leetcode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Niteesh546/Daily-leetcode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Niteesh546/Daily-leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Niteesh546/Daily-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Niteesh546/Daily-leetcode/tree/master/0561-array-partition) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Niteesh546/Daily-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Niteesh546/Daily-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Niteesh546/Daily-leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/Niteesh546/Daily-leetcode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Niteesh546/Daily-leetcode/tree/master/0525-contiguous-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Niteesh546/Daily-leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/Niteesh546/Daily-leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Niteesh546/Daily-leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Niteesh546/Daily-leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Niteesh546/Daily-leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Niteesh546/Daily-leetcode/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/Niteesh546/Daily-leetcode/tree/master/0844-backspace-string-compare) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Niteesh546/Daily-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Divide and Conquer
@@ -503,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Niteesh546/Daily-leetcode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Niteesh546/Daily-leetcode/tree/master/0496-next-greater-element-i) |
 ## Enumeration
 |  |
 | ------- |
