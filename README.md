@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Niteesh546/Daily-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Niteesh546/Daily-leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/Niteesh546/Daily-leetcode/tree/master/0561-array-partition) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Niteesh546/Daily-leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1833-maximum-ice-cream-bars](https://github.com/Niteesh546/Daily-leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Niteesh546/Daily-leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Niteesh546/Daily-leetcode/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Niteesh546/Daily-leetcode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Niteesh546/Daily-leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Niteesh546/Daily-leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1108-defanging-an-ip-address](https://github.com/Niteesh546/Daily-leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Niteesh546/Daily-leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Niteesh546/Daily-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Niteesh546/Daily-leetcode/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/Niteesh546/Daily-leetcode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Niteesh546/Daily-leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Niteesh546/Daily-leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Niteesh546/Daily-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Divide and Conquer
 |  |
@@ -527,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Niteesh546/Daily-leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Niteesh546/Daily-leetcode/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Niteesh546/Daily-leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Niteesh546/Daily-leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Niteesh546/Daily-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tournament Sort
 |  |
