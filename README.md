@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Niteesh546/Daily-leetcode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Niteesh546/Daily-leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Niteesh546/Daily-leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0853-car-fleet](https://github.com/Niteesh546/Daily-leetcode/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Niteesh546/Daily-leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Niteesh546/Daily-leetcode/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/Niteesh546/Daily-leetcode/tree/master/0905-sort-array-by-parity) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Niteesh546/Daily-leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/Niteesh546/Daily-leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Niteesh546/Daily-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0853-car-fleet](https://github.com/Niteesh546/Daily-leetcode/tree/master/0853-car-fleet) |
 | [0905-sort-array-by-parity](https://github.com/Niteesh546/Daily-leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Niteesh546/Daily-leetcode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Niteesh546/Daily-leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Niteesh546/Daily-leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Niteesh546/Daily-leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Niteesh546/Daily-leetcode/tree/master/0844-backspace-string-compare) |
+| [0853-car-fleet](https://github.com/Niteesh546/Daily-leetcode/tree/master/0853-car-fleet) |
 | [0856-score-of-parentheses](https://github.com/Niteesh546/Daily-leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Niteesh546/Daily-leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Niteesh546/Daily-leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -524,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Niteesh546/Daily-leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Niteesh546/Daily-leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Niteesh546/Daily-leetcode/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/Niteesh546/Daily-leetcode/tree/master/0853-car-fleet) |
 ## Enumeration
 |  |
 | ------- |
