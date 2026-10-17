@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Niteesh546/Daily-leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Niteesh546/Daily-leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Niteesh546/Daily-leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Niteesh546/Daily-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Niteesh546/Daily-leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Niteesh546/Daily-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Niteesh546/Daily-leetcode/tree/master/0414-third-maximum-number) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Niteesh546/Daily-leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Niteesh546/Daily-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Niteesh546/Daily-leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Niteesh546/Daily-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Niteesh546/Daily-leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Niteesh546/Daily-leetcode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Niteesh546/Daily-leetcode/tree/master/0567-permutation-in-string) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Niteesh546/Daily-leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Niteesh546/Daily-leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Niteesh546/Daily-leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Niteesh546/Daily-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Niteesh546/Daily-leetcode/tree/master/0338-counting-bits) |
 ## Design
 |  |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Niteesh546/Daily-leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Niteesh546/Daily-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Niteesh546/Daily-leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Niteesh546/Daily-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Niteesh546/Daily-leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Niteesh546/Daily-leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Niteesh546/Daily-leetcode/tree/master/0875-koko-eating-bananas) |
@@ -518,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Niteesh546/Daily-leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Niteesh546/Daily-leetcode/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Niteesh546/Daily-leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Quickselect
 |  |
 | ------- |
@@ -585,4 +590,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Niteesh546/Daily-leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Niteesh546/Daily-leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
