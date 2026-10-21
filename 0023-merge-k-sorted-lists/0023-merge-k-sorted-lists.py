@@ -1,12 +1,10 @@
 # Definition for singly-linked list.
-# class ListNode:
+# class ListNode(object):
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
-
-class Solution:
-
-    def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
+class Solution(object):
+    def mergeKLists(self, lists):
         if not lists or len(lists) == 0:
             return None
 
@@ -38,3 +36,8 @@ class Solution:
             tail.next = l2
 
         return dummy.next
+
+ 
+
+
+        
