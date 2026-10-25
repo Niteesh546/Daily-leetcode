@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Niteesh546/Daily-leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Niteesh546/Daily-leetcode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Niteesh546/Daily-leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [1254-number-of-closed-islands](https://github.com/Niteesh546/Daily-leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Niteesh546/Daily-leetcode/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Niteesh546/Daily-leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Niteesh546/Daily-leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Niteesh546/Daily-leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Niteesh546/Daily-leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Niteesh546/Daily-leetcode/tree/master/0074-search-a-2d-matrix) |
+| [1254-number-of-closed-islands](https://github.com/Niteesh546/Daily-leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Niteesh546/Daily-leetcode/tree/master/1260-shift-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/Niteesh546/Daily-leetcode/tree/master/1672-richest-customer-wealth) |
 ## Simulation
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Niteesh546/Daily-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Niteesh546/Daily-leetcode/tree/master/0226-invert-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Niteesh546/Daily-leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [1254-number-of-closed-islands](https://github.com/Niteesh546/Daily-leetcode/tree/master/1254-number-of-closed-islands) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -534,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Niteesh546/Daily-leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [1254-number-of-closed-islands](https://github.com/Niteesh546/Daily-leetcode/tree/master/1254-number-of-closed-islands) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -579,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Niteesh546/Daily-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Niteesh546/Daily-leetcode/tree/master/0226-invert-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/Niteesh546/Daily-leetcode/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
