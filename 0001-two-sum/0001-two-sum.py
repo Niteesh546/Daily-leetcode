@@ -1,13 +1,12 @@
 class Solution(object):
     def twoSum(self, nums, target):
-        has = {}
+        hash_map = {}
+        for i in range(len(nums)):
+            des = target-nums[i]
+            if des in hash_map:
+                return [hash_map[des],i]
+            hash_map[nums[i]]=i
 
-        for i in range (len(nums)):
-            o = target - nums[i]
-
-            if o in has :
-                return [has[o],i]
-            has[nums[i]]=i      
         
 
         
