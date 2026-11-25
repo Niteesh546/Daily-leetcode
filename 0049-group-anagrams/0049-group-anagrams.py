@@ -3,6 +3,7 @@ class Solution:
         groups={}
         for s in strs:
             sorteds = ''.join(sorted(s))
+            print(sorteds)
             if sorteds in groups:
                 groups[sorteds].append(s)
             else:
